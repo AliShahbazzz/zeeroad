@@ -1,0 +1,10 @@
+.work_root{
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(to right, #84CEEB , #5AB9EA , #84CEEB);
+}
+
+.work_main{
+    margin-left: auto;
+    margin-right: auto;
+}

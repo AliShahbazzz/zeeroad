@@ -1,0 +1,27 @@
+.about_root{
+    width: 100%;
+    min-height: 80vh;
+    background-image: linear-gradient(to right, #265077 , #022140 , #1E4258);
+}
+
+.about_main{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    width: 85%;
+    min-height: 70vh;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    align-items: center;
+}
+.about_image{
+    width: 60%;
+}
+.about_content{
+    width: 40%;
+    padding: 2em;
+}
+.about_heading{
+    font-size: 3em;
+    font-weight: bold;
+}

@@ -1,0 +1,34 @@
+.sectionOne_root{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to right, #0B0C10 , #1F2833);
+}
+
+.sectionOne_main{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2%;
+}
+.sectionOne_header{
+    display: flex;
+}
+.sectionOne_header_logo{
+    width: 15%;
+}
+.sectionOne_header_links_section{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.sectionOne_header_lists{
+    display: flex;
+}
+.sectionOne_header_lists li{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.sectionOne_header_lists li:hover{
+    cursor: pointer;
+    color: #1F2833;
+}
