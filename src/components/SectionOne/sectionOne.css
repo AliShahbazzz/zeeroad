@@ -32,3 +32,23 @@
     cursor: pointer;
     color: #1F2833;
 }
+.sectionOne_content{
+    margin-top: 11em;
+}
+.sectionOne_content_heading{
+    font-size: 3.5em;
+    margin-bottom: 2%;
+}
+.sectionOne_content_subheading{
+    line-height: 1.5;
+    font-size: 1.2em;
+    margin-bottom: 2%;
+}
+.sectionOne_content_button_section{
+
+}
+.sectionOne_content_button{
+    color: #ffffff !important;
+    outline: #ffffff !important;
+    border-color: #ffffff !important;
+}

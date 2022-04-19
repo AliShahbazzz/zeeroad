@@ -3,7 +3,8 @@ import About from "./components/About/about";
 import './App.css';
 import Services from "./components/Services/services";
 import Work from "./components/Our Work/work";
-import Book from "./components/Book Session/book";
+import Book from "./components/Book/book";
+import Footer from "./components/Footer/footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Services />
         <Work />
         <Book />
+        <Footer />
       </div>
     </div>
   );

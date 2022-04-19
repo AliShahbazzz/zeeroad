@@ -2,47 +2,47 @@ const servicesList = [
     {
         "image": "",
         "title": "UI/UX Design",
-        "content": "We know that your website has to offer a logical and smooth user experience. That’s why we work closely with you to establish the true purpose of your website and effectively meet your needs."
+        "content": "The key component of success for a business's online presence and success is user experience. Better experience brings satisfaction to the users and makes them want to use your website more"
     },
     {
         "image": "",
         "title": "Graphic Design",
-        "content": "From your brand logo and business cards to brochures and flyers, we provide design solutions that look great but most importantly, help you to reach your goals."
+        "content": "We believe that graphic design is less about aesthetic and more about the message and purpose of that graphic being designed in the first place. We make sure that it depicts the message that it's meant to"
     },
     {
         "image": "",
         "title": "Photo & Video Content",
-        "content": "We place a great emphasis on tiny details to deliver your message to the world through photography, videography, storyboarding, and production."
+        "content": "Making modern, catchy and audience related digital content helps gain more attention to your business and builds awareness among people. This plays the key role in building your brand"
     },
     {
         "image": "",
         "title": "App Development",
-        "content": "We plan tailored software solutions for you to achieve operational excellence and deliver them fast and error-free."
+        "content": "Functionalities, a bug free experience, pleasing animations and smoothness is what helps you gain a permanent member. It is about the value that you create for the users with least effort from them"
     },
     {
         "image": "",
-        "title": "eCommerce Development",
-        "content": "Rather you look for a single-page web store or a comprehensive eCommerce platform, we provide innovative solutions to your business."
+        "title": "Website Development",
+        "content": "Building an easy to understand and user friendly online platform with seamless integrations and optimizations is the best way to create value. Be it a business or fully functional eCommerce Website"
     },
     {
         "image": "",
         "title": "Domain Hosting and Management",
-        "content": "We place a great emphasis on tiny details to deliver your message to the world through photography, videography, storyboarding, and production."
+        "content": "Having a perfect domain to be the face of your business, a strong hosting with reliable maintenance helps businesses forget worrying about their online presence and focus on their actual business"
     },
     {
         "image": "",
         "title": "Social Media Management",
-        "content": "There is no internet marketing strategy that is complete without Social Media. It is essential because today’s audiences, whether B2C or B2B is on Social Media platforms daily. HDM will help your business to increase brand awareness, generate leads and stay top of mind among your follower base."
+        "content": "Social Media has been growing at a pace of 3000% a year. Making meaningful and valuable content for users which would help them solve a problem is the best way to stand out and grab attention"
     },
     {
         "image": "",
         "title": "Paid Ads",
-        "content": "We elevate our clients' paid search structure and strategy, creating engaging ads, building relevant audiences to get our clients qualified traffic and leads that drive revenue efficiently."
+        "content": "With the help of powerful tools like Google Ads, YouTube Ads etc., targeting relevant audience can provide exceptional returns. It also helps massively to generate traffic on your website"
     },
     {
         "image": "",
         "title": "Search Engine Optimization (SEO)",
-        "content": "Boost the organic traffic to your website. The right SEO strategy and keywords will put you ahead of your competitors on browser search result pages in order to garner more organic traffic."
+        "content": "This is the best tool to rank up your digital presence and position in the google search. Proper content writing, using highly researched keywords and other optimization techniques help you grow your online presence organically"
     }
 ]
 

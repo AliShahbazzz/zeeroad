@@ -5,9 +5,11 @@ class Footer extends Component {
     state = {  } 
     render() { 
         return (
-            <div>
-
+          <div className="footer_root">
+            <div className="footer_main font_color_secondary">
+                <span>Copyright © 2021 Zeeroad All Rights Reserved.</span>
             </div>
+          </div>
         );
     }
 }

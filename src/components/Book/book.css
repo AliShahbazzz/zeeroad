@@ -15,17 +15,18 @@
 .book_heading{
     font-size: 3em;
     font-weight: bold;
+    margin-bottom: 5%;
 }
 .book_form{
     width: 50%;
     padding: 2em;
 }
 .book_form_container{
-    width: 70%;
+    width: 65%;
     margin-left: auto;
     margin-right: auto;
     border-radius: 1.4em;
-    background-image: linear-gradient(268.5deg, rgba(255, 171, 188, 0.1) -0.06%, rgba(164, 179, 255, 0.1) 97.65%);
+    background-image: linear-gradient(268.5deg, #ffabbc1a -0.06%, #a4b3ff1a 97.65%);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -36,4 +37,14 @@
 .book_input{
     margin: 1em !important;
     width: 100% !important;
+}
+
+.book_content{
+    line-height: 1.3;
+    font-size: 1.2em;
+    margin-bottom: 2%;
+}
+
+.book_email{
+    color: #265077;
 }

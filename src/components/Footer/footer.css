@@ -1,0 +1,9 @@
+.footer_root{
+    width: 100%;
+    background-image: linear-gradient(to right, #265077 , #022140 , #1E4258);
+}
+
+.footer_main{
+    padding: 1% 1%;
+    text-align: center;
+}

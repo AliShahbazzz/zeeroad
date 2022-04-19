@@ -24,6 +24,17 @@ class SectionOnce extends Component {
                         {/* <button>BOOK</button> */}
                         </div>
                     </div>
+                    <div className='sectionOne_content font_color_secondary'>
+                        <div className='sectionOne_content_heading'>We Help Brands Grow <br />Beautifully</div>
+                        <div className='sectionOne_content_subheading'>
+                            On a mission to help 10000 businesses achieve their<br /> goals with authenticity
+                        </div>
+                        <div className='sectionOne_content_button_section'>
+                            <Button variant="outlined" className="sectionOne_content_button">
+                                Book Free Session
+                            </Button>
+                        </div>
+                    </div>
                 </div>
             </div>
          );

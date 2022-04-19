@@ -28,7 +28,7 @@ class Book extends Component {
   onsubmit = () => {
     let data = this.state;
     axios
-      .post("/users", {
+      .post("/users.php", {
         name: data.name,
         email: data.email,
         service: data.service,
@@ -58,6 +58,18 @@ class Book extends Component {
         <div className="book_main">
           <div className="book_image">
             <div className="book_heading">Contact us</div>
+            <div className="book_content">
+              Reach out to us at
+              <span className="book_email">
+              {" "}<a href="mailto:contact@zeeroad.com"> contact@zeeroad.com </a>{" "}
+              </span>
+              or fill the form and <br />
+              we will get back to you shortly. <br />
+              <br />
+              +91 8919 880 116 <br />
+              +971 58 922 9610 <br />
+              +1 647 806 5468
+            </div>
           </div>
           <div className="book_form">
             <div className="book_form_container">
